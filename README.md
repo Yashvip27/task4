@@ -29,8 +29,8 @@ The dataset includes:
 - **Total Profit**
 - **Profit Margin (%)**
 - **Monthly Sales Trend**
-- **Top Products**
-- **Region-wise Performance**
+- **Total units sold**
+- **AVG. Discount**
 
 ### ✅ Visuals Used:
 - **Line Chart** – for time-series trend analysis
